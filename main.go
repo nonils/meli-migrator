@@ -16,9 +16,7 @@ import (
 const FileUrl = ""
 const NickName = ""
 
-
 func main() {
-	fmt.Println("Hola mundo")
 	getMeliItemsByName(NickName)
 }
 
